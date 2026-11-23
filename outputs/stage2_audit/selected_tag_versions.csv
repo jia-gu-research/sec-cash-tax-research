@@ -1,0 +1,14 @@
+variable,tag,version,n
+PretaxIncome,IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,us-gaap/2024,24
+PretaxIncome,IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,us-gaap/2025,919
+PretaxIncome,IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,us-gaap/2026,4
+TotalAssets,Assets,us-gaap/2024,34
+TotalAssets,Assets,us-gaap/2025,1109
+TotalAssets,Assets,us-gaap/2026,6
+TotalRevenue,RevenueFromContractWithCustomerExcludingAssessedTax,us-gaap/2024,15
+TotalRevenue,RevenueFromContractWithCustomerExcludingAssessedTax,us-gaap/2025,487
+TotalRevenue,RevenueFromContractWithCustomerIncludingAssessedTax,us-gaap/2024,3
+TotalRevenue,RevenueFromContractWithCustomerIncludingAssessedTax,us-gaap/2025,83
+TotalRevenue,Revenues,us-gaap/2024,9
+TotalRevenue,Revenues,us-gaap/2025,291
+TotalRevenue,Revenues,us-gaap/2026,5

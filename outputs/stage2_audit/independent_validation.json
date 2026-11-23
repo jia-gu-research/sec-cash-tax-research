@@ -1,0 +1,26 @@
+{
+  "checks": {
+    "audit_population_unique": true,
+    "strict_total_revenue_only": true,
+    "primary_unique_company_period": true,
+    "primary_all_valid_losses": true,
+    "outcome_reconstructed": true,
+    "refunds_not_removed": true,
+    "logs_reconstructed": true,
+    "no_proxy_mislabeled_total": true,
+    "alternate_irls_coefficients": true,
+    "alternate_irls_robust_se": true,
+    "inadequate_model_not_estimated": true,
+    "notebook_sequential_execution": true,
+    "notebook_no_error_outputs": true,
+    "frozen_bridge_matches_pin": true,
+    "all_requested_deliverables_present": true,
+    "adversarial_guardrails": true
+  },
+  "checks_passed": 16,
+  "guardrail_tests_run": 5,
+  "protected_inputs_rechecked": 1,
+  "raw_sec_input_hash_status": "NOT_CHECKED_RAW_INPUT_NOT_PRESENT",
+  "primary_n": 141,
+  "alternate_glm_max_coefficient_difference": 1.341149413747189e-13
+}

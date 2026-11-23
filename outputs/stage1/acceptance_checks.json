@@ -1,0 +1,11 @@
+{
+  "filing_universe": 2340,
+  "original_numeric_total_coverage": 1159,
+  "strict_scopes": 184,
+  "strict_exact": 177,
+  "exceptions": 7,
+  "provisional_eligible": 1157,
+  "reported_zero_selected": 125,
+  "original_strict_parity": true,
+  "raw_sha256": "d1c1711e6cee2f197fb91879521da178329d1c1ed369f9086aa501aff45f83d4"
+}

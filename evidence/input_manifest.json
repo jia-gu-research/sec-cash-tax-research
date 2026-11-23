@@ -1,0 +1,62 @@
+{
+  "notebooks/02_tax_notes_exploration.ipynb": {
+    "sha256": "535623b02f99431b81f4d8fd8fb36350a2c7fbb23351bd127098dc1a6af80e1a",
+    "bytes": 711492
+  },
+  "notebooks/02_tax_notes_exploration.html": {
+    "sha256": "5e31bb593abd5e695630d3e496b11bc56f25cb2f587f4032bbcd6037104e609a",
+    "bytes": 1233171
+  },
+  "data/raw/Financial Statement and Notes Data Sets/2026_03_notes.zip": {
+    "sha256": "d1c1711e6cee2f197fb91879521da178329d1c1ed369f9086aa501aff45f83d4",
+    "bytes": 307533198
+  },
+  "notebooks/outputs/march_2026_pilot/cash_tax_exception_log.csv": {
+    "sha256": "1c63d39ff2e9f7d0d26fe800350b4b6faf9cebc728f6dc5f82a3bee816cf0ed3",
+    "bytes": 3792
+  },
+  "notebooks/outputs/march_2026_pilot/cash_tax_facts_current_long.csv": {
+    "sha256": "7f7fefc4c91f209ea53b9ab74d661b66289636440673e9c0a2965c50db1f59ca",
+    "bytes": 2218646
+  },
+  "notebooks/outputs/march_2026_pilot/cash_tax_geo_candidates.csv": {
+    "sha256": "3c1801067e4dc6c2e891715383e9467c4fc25ef903de2a96a93adb38f3d57ca4",
+    "bytes": 95307
+  },
+  "notebooks/outputs/march_2026_pilot/cash_tax_qa_summary.csv": {
+    "sha256": "0e6e44a3e0c8b9d1d55260bb4bef098ea7664cb1f500b8febcd35e43ca39d0a5",
+    "bytes": 130
+  },
+  "notebooks/outputs/march_2026_pilot/cash_tax_reconciliation_184.csv": {
+    "sha256": "0e8601bc5251488726cf64efb86b60b660960ec21060015f1bb2f9cfbf1dc41e",
+    "bytes": 60179
+  },
+  "notebooks/outputs/march_2026_pilot/coverage_summary.csv": {
+    "sha256": "7a1d70a4dca1487816812aa3c7cdfd676a3e397d4a9ace124247a313d641622c",
+    "bytes": 263
+  },
+  "notebooks/outputs/march_2026_pilot/filing_coverage_10k.csv": {
+    "sha256": "e5cf99761cdeb0bd688b2ffc6ff7fe6d647bc12899d0346b6c94615d0517840f",
+    "bytes": 329446
+  },
+  "notebooks/outputs/march_2026_pilot/geographic_all_candidates.csv": {
+    "sha256": "3b40799228ab3c9093a176346a69452fff70b29fe2bb284c9f75aaec9225136a",
+    "bytes": 1382537
+  },
+  "notebooks/outputs/march_2026_pilot/geographic_gap_candidates.csv": {
+    "sha256": "f6d12c798e66d2edcf2729f440143536ff70cdd9997f5d4c1e805e66d798b418",
+    "bytes": 10478
+  },
+  "notebooks/outputs/march_2026_pilot/geographic_relations.csv": {
+    "sha256": "ef5fe1e67fb424a08ab5a99a02c90824bf34ecb3a6534ff2e9b93b09da860572",
+    "bytes": 139508
+  },
+  "notebooks/outputs/march_2026_pilot/other_cal_relations.csv": {
+    "sha256": "31dbc414ff171efa556fa2e0fb98324c3e23c0f960c006dd5917dca97f58b377",
+    "bytes": 3276
+  },
+  "notebooks/outputs/march_2026_pilot/partial_disclosure_scopes.csv": {
+    "sha256": "2aecd7ade448a407b5b5b3acd5e0a2afbee7871b134d0d2488bf7b08e547ffcb",
+    "bytes": 577984
+  }
+}

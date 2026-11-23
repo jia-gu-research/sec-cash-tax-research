@@ -1,0 +1,12 @@
+.venv*/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.jupyter/
+.runtime/
+.DS_Store
+Thumbs.db
+*.log
+data/raw/*.zip
+data/raw/**/*.zip

@@ -1,0 +1,9 @@
+﻿stage,n_filings,reduction_from_previous,definition
+01_ORIGINAL_10K,2340,0,"Original 10-K, not 10-K/A"
+02_TOTAL_TAG_ANY_PERIOD,1294,1046,Standard Total tag present in any period/scope
+03_NUMERIC_TOTAL_ANY_PERIOD,1211,83,At least one nonmissing numeric Total
+04_CURRENT_ANNUAL_NUMERIC,1172,39,"fp FY, qtrs 4, standardized ddate equals period"
+05_DIMENSIONLESS_USD_CURRENT,1159,13,"Original 1,159 coverage definition"
+06_UNIQUE_DUPLICATE_REVIEWED,1158,1,Unique target fact; duplicate audit; prior precision-source flags cleared
+07_SEMANTIC_EXCLUSIONS_APPLIED,1157,1,Exclude known legacy-row ambiguity; no universal semantic verification
+08_ELIGIBLE_PROVISIONAL,1157,0,Mechanical checks pass; semantic validity provisional

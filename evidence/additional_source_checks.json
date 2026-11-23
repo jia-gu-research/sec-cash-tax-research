@@ -1,0 +1,10 @@
+{
+  "checked_date": "2026-11-11",
+  "adsh": "0001498372-26-000002",
+  "company": "IWALLET CORP",
+  "url": "https://www.sec.gov/Archives/edgar/data/1498372/000149837226000002/iwal-20251231_10k.htm",
+  "browser_text_readable": true,
+  "raw_html_retrieval_status": "HTTP_403",
+  "original_decimals_attribute_verified": false,
+  "conclusion": "Prior source-verification flag remains unresolved; finite dcml=128 is not intrinsically invalid; preserve reported zero and withhold provisional eligibility pending source check."
+}

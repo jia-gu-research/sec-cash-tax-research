@@ -1,0 +1,25 @@
+{
+  "paper": {
+    "title": "Tax Payments in Loss Firms",
+    "authors": [
+      "Alexander Edwards",
+      "Adrian Kubata",
+      "Terry Shevlin"
+    ],
+    "year": 2026,
+    "doi": "10.1111/1911-3846.70064",
+    "url": "https://doi.org/10.1111/1911-3846.70064",
+    "local_filename": "Contemporary Accting Res - 2026 - Edwards - Tax Payments in Loss Firms.pdf",
+    "sha256": "5b667055352c5305df538304db95ad80ffd7b4f0a5e7743aa07d6eaf0dad8208",
+    "reviewed_locations": [
+      "Section 4.1",
+      "Table 2 (PDF page 15)",
+      "Table 5 (PDF page 21)",
+      "Appendix 2 (PDF pages 35-36)"
+    ]
+  },
+  "statistical_implementation": {
+    "logit_documentation": "https://www.statsmodels.org/stable/generated/statsmodels.discrete.discrete_model.Logit.fit.html",
+    "covariance": "HC0 sandwich; independently checked from Hessian and per-observation scores; GLM/IRLS cross-check in validate_outputs.py"
+  }
+}

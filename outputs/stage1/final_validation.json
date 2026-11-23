@@ -1,0 +1,31 @@
+{
+  "all_checks_passed": true,
+  "checks": {
+    "one_row_per_original_10k": true,
+    "eligibility_universe_equals_coverage": true,
+    "exclusions_complete": true,
+    "exclusion_reasons_complete": true,
+    "provisional_label_only": true,
+    "ineligible_analytical_values_missing": true,
+    "reported_values_not_imputed": true,
+    "zero_retention": true,
+    "bigbear_zero_preserved": true,
+    "smithfield_precision_only": true,
+    "cal_sign_not_ignored": true,
+    "all_original_strict_amounts_and_differences_unchanged": true,
+    "seven_original_exceptions_retained": true,
+    "all_duplicate_context_qualifiers_agree": true,
+    "iprx_zero_unique_even_singletons": true,
+    "geographic_relationships_not_confirmed": true,
+    "fiscal_label_mismatches_not_blanket_excluded": true,
+    "all_output_variables_documented": true,
+    "all_notebook_code_cells_executed": true,
+    "no_notebook_error_outputs": true,
+    "required_documents_present": true,
+    "required_evidence_present": true
+  },
+  "evidence_files_checked": 5,
+  "raw_sec_input_hash_status": "NOT_CHECKED_RAW_INPUT_NOT_PRESENT",
+  "code_cells_executed": 42,
+  "documented_variables": 191
+}

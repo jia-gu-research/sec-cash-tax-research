@@ -1,0 +1,5 @@
+# This project uses two separate pinned environments.
+# Install ONE of the following, depending on the notebook you are running:
+#   python -m pip install -r requirements-stage1.txt
+#   python -m pip install -r requirements-stage2.txt
+# Do not install both requirement files into the same environment.

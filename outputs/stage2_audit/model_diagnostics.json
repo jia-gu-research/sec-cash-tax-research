@@ -1,0 +1,96 @@
+[
+  {
+    "model": "M1_assets_all_available",
+    "n": 519,
+    "positive": 404,
+    "nonpositive": 115,
+    "predictors": [
+      "LogAssets"
+    ],
+    "status": "ESTIMATED",
+    "converged": true,
+    "covariance": "HC0",
+    "pseudo_r2_mcfadden": 0.0566763614346506,
+    "log_likelihood": -258.94168781584324,
+    "null_log_likelihood": -274.4993099183371,
+    "condition_number_standardized": 1.0009647855596628,
+    "max_abs_score": 1.5631940186722204e-13,
+    "warnings": [],
+    "separation": "NONE_DETECTED",
+    "revenue_proxy_n": 304
+  },
+  {
+    "model": "M2_assets_common_sample",
+    "n": 141,
+    "positive": 108,
+    "nonpositive": 33,
+    "predictors": [
+      "LogAssets"
+    ],
+    "status": "ESTIMATED",
+    "converged": true,
+    "covariance": "HC0",
+    "pseudo_r2_mcfadden": 0.14933252762792415,
+    "log_likelihood": -65.2633977415931,
+    "null_log_likelihood": -76.72022248553469,
+    "condition_number_standardized": 1.003565073696199,
+    "max_abs_score": 9.802342578405334e-15,
+    "warnings": [],
+    "separation": "NONE_DETECTED",
+    "revenue_proxy_n": 0
+  },
+  {
+    "model": "M3_assets_revenue_primary",
+    "n": 141,
+    "positive": 108,
+    "nonpositive": 33,
+    "predictors": [
+      "LogAssets",
+      "LogRevenue"
+    ],
+    "status": "ESTIMATED",
+    "converged": true,
+    "covariance": "HC0",
+    "pseudo_r2_mcfadden": 0.19520894952235235,
+    "log_likelihood": -61.74374844701231,
+    "null_log_likelihood": -76.72022248553469,
+    "condition_number_standardized": 2.816953631007323,
+    "max_abs_score": 5.45547964781269e-14,
+    "warnings": [],
+    "separation": "NONE_DETECTED",
+    "revenue_proxy_n": 0
+  },
+  {
+    "model": "S1_revenue_proxy_expanded",
+    "n": 441,
+    "positive": 354,
+    "nonpositive": 87,
+    "predictors": [
+      "LogAssets",
+      "LogRevenueIncludingProxy"
+    ],
+    "status": "ESTIMATED",
+    "converged": true,
+    "covariance": "HC0",
+    "pseudo_r2_mcfadden": 0.07531880352634202,
+    "log_likelihood": -202.50858162406666,
+    "null_log_likelihood": -219.00367650639868,
+    "condition_number_standardized": 2.705340788777587,
+    "max_abs_score": 1.196640375486037e-13,
+    "warnings": [],
+    "separation": "NONE_DETECTED",
+    "revenue_proxy_n": 300
+  },
+  {
+    "model": "S2_paper_screen_proxy",
+    "n": 79,
+    "positive": 65,
+    "nonpositive": 14,
+    "predictors": [
+      "LogAssets",
+      "LogRevenue"
+    ],
+    "status": "NOT_ESTIMATED",
+    "reason": "INSUFFICIENT_SAMPLE_OR_OUTCOME_VARIATION"
+  }
+]

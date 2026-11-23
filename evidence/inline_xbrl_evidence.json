@@ -1,0 +1,49 @@
+{
+  "sources": [
+    {
+      "company": "Smithfield Foods",
+      "url": "https://www.sec.gov/Archives/edgar/data/91388/000009138826000014/smf-20251228.htm",
+      "facts": [
+        "<ix:nonFraction unitRef=\"usd\" contextRef=\"c-1\" decimals=\"-6\" name=\"us-gaap:IncomeTaxesPaidNet\" scale=\"6\" id=\"f-1499\">124</ix:nonFraction>",
+        "<ix:nonFraction unitRef=\"usd\" contextRef=\"c-4\" decimals=\"-6\" name=\"us-gaap:IncomeTaxesPaidNet\" scale=\"6\" id=\"f-1500\">130</ix:nonFraction>",
+        "<ix:nonFraction unitRef=\"usd\" contextRef=\"c-5\" decimals=\"-6\" name=\"us-gaap:IncomeTaxesPaidNet\" scale=\"6\" id=\"f-1501\">108</ix:nonFraction>",
+        "<ix:nonFraction unitRef=\"usd\" contextRef=\"c-1\" decimals=\"-6\" name=\"us-gaap:IncomeTaxPaidFederalAfterRefundReceived\" scale=\"6\" id=\"f-1503\">103</ix:nonFraction>",
+        "<ix:nonFraction unitRef=\"usd\" contextRef=\"c-1\" decimals=\"-6\" name=\"us-gaap:IncomeTaxPaidStateAndLocalAfterRefundReceived\" scale=\"6\" id=\"f-1504\">19</ix:nonFraction>",
+        "<ix:nonFraction unitRef=\"usd\" contextRef=\"c-1\" decimals=\"-6\" name=\"us-gaap:IncomeTaxPaidForeignAfterRefundReceived\" scale=\"6\" id=\"f-1505\">3</ix:nonFraction>",
+        "<ix:nonFraction unitRef=\"usd\" contextRef=\"c-1\" decimals=\"-6\" name=\"us-gaap:IncomeTaxesPaidNet\" scale=\"6\" id=\"f-1506\">124</ix:nonFraction>",
+        "<ix:nonFraction unitRef=\"usd\" contextRef=\"c-391\" decimals=\"-6\" name=\"us-gaap:IncomeTaxPaidStateAndLocalAfterRefundReceived\" scale=\"6\" id=\"f-1507\">7</ix:nonFraction>"
+      ],
+      "contexts": [
+        "<xbrli:context id=\"c-1\"><xbrli:entity><xbrli:identifier scheme=\"http://www.sec.gov/CIK\">0000091388</xbrli:identifier></xbrli:entity><xbrli:period><xbrli:startDate>2024-12-30</xbrli:startDate><xbrli:endDate>2025-12-28</xbrli:endDate></xbrli:period></xbrli:context>",
+        "<xbrli:context id=\"c-4\"><xbrli:entity><xbrli:identifier scheme=\"http://www.sec.gov/CIK\">0000091388</xbrli:identifier></xbrli:entity><xbrli:period><xbrli:startDate>2024-01-01</xbrli:startDate><xbrli:endDate>2024-12-29</xbrli:endDate></xbrli:period></xbrli:context>",
+        "<xbrli:context id=\"c-5\"><xbrli:entity><xbrli:identifier scheme=\"http://www.sec.gov/CIK\">0000091388</xbrli:identifier></xbrli:entity><xbrli:period><xbrli:startDate>2023-01-01</xbrli:startDate><xbrli:endDate>2023-12-31</xbrli:endDate></xbrli:period></xbrli:context>",
+        "<xbrli:context id=\"c-391\"><xbrli:entity><xbrli:identifier scheme=\"http://www.sec.gov/CIK\">0000091388</xbrli:identifier><xbrli:segment><xbrldi:explicitMember dimension=\"us-gaap:IncomeTaxAuthorityAxis\">stpr:CA</xbrldi:explicitMember></xbrli:segment></xbrli:entity><xbrli:period><xbrli:startDate>2024-12-30</xbrli:startDate><xbrli:endDate>2025-12-28</xbrli:endDate></xbrli:period></xbrli:context>"
+      ],
+      "unit": "<xbrli:unit id=\"usd\"><xbrli:measure>iso4217:USD</xbrli:measure></xbrli:unit>"
+    },
+    {
+      "company": "BigBear.ai",
+      "url": "https://www.sec.gov/Archives/edgar/data/1836981/000183698126000018/bbai-20251231.htm",
+      "facts": [
+        "<ix:nonFraction unitRef=\"usd\" contextRef=\"c-1\" decimals=\"-3\" name=\"us-gaap:IncomeTaxPaidFederalAfterRefundReceived\" format=\"ixt:fixed-zero\" scale=\"3\" id=\"f-469\">&#8212;</ix:nonFraction>",
+        "<ix:nonFraction unitRef=\"usd\" contextRef=\"c-8\" decimals=\"-3\" name=\"us-gaap:IncomeTaxPaidFederalAfterRefundReceived\" format=\"ixt:fixed-zero\" scale=\"3\" id=\"f-470\">&#8212;</ix:nonFraction>",
+        "<ix:nonFraction unitRef=\"usd\" contextRef=\"c-9\" decimals=\"-3\" name=\"us-gaap:IncomeTaxPaidFederalAfterRefundReceived\" format=\"ixt:fixed-zero\" scale=\"3\" id=\"f-471\">&#8212;</ix:nonFraction>",
+        "<ix:nonFraction unitRef=\"usd\" contextRef=\"c-1\" decimals=\"-3\" sign=\"-\" name=\"us-gaap:IncomeTaxPaidStateAndLocalAfterRefundReceived\" scale=\"3\" id=\"f-472\">28</ix:nonFraction>",
+        "<ix:nonFraction unitRef=\"usd\" contextRef=\"c-8\" decimals=\"-3\" name=\"us-gaap:IncomeTaxPaidStateAndLocalAfterRefundReceived\" format=\"ixt:fixed-zero\" scale=\"3\" id=\"f-473\">&#8212;</ix:nonFraction>",
+        "<ix:nonFraction unitRef=\"usd\" contextRef=\"c-9\" decimals=\"-3\" name=\"us-gaap:IncomeTaxPaidStateAndLocalAfterRefundReceived\" format=\"ixt:fixed-zero\" scale=\"3\" id=\"f-474\">&#8212;</ix:nonFraction>",
+        "<ix:nonFraction unitRef=\"usd\" contextRef=\"c-1\" decimals=\"-3\" name=\"us-gaap:IncomeTaxPaidForeignAfterRefundReceived\" format=\"ixt:fixed-zero\" scale=\"3\" id=\"f-475\">&#8212;</ix:nonFraction>",
+        "<ix:nonFraction unitRef=\"usd\" contextRef=\"c-8\" decimals=\"-3\" name=\"us-gaap:IncomeTaxPaidForeignAfterRefundReceived\" format=\"ixt:fixed-zero\" scale=\"3\" id=\"f-476\">&#8212;</ix:nonFraction>",
+        "<ix:nonFraction unitRef=\"usd\" contextRef=\"c-9\" decimals=\"-3\" name=\"us-gaap:IncomeTaxPaidForeignAfterRefundReceived\" format=\"ixt:fixed-zero\" scale=\"3\" id=\"f-477\">&#8212;</ix:nonFraction>",
+        "<ix:nonFraction unitRef=\"usd\" contextRef=\"c-1\" decimals=\"-3\" name=\"us-gaap:IncomeTaxesPaidNet\" format=\"ixt:fixed-zero\" scale=\"3\" id=\"f-478\">&#8212;</ix:nonFraction>",
+        "<ix:nonFraction unitRef=\"usd\" contextRef=\"c-8\" decimals=\"-3\" sign=\"-\" name=\"us-gaap:IncomeTaxesPaidNet\" format=\"ixt:num-dot-decimal\" scale=\"3\" id=\"f-479\">1,506</ix:nonFraction>",
+        "<ix:nonFraction unitRef=\"usd\" contextRef=\"c-9\" decimals=\"-3\" sign=\"-\" name=\"us-gaap:IncomeTaxesPaidNet\" scale=\"3\" id=\"f-480\">30</ix:nonFraction>"
+      ],
+      "contexts": [
+        "<xbrli:context id=\"c-1\"><xbrli:entity><xbrli:identifier scheme=\"http://www.sec.gov/CIK\">0001836981</xbrli:identifier></xbrli:entity><xbrli:period><xbrli:startDate>2025-01-01</xbrli:startDate><xbrli:endDate>2025-12-31</xbrli:endDate></xbrli:period></xbrli:context>",
+        "<xbrli:context id=\"c-8\"><xbrli:entity><xbrli:identifier scheme=\"http://www.sec.gov/CIK\">0001836981</xbrli:identifier></xbrli:entity><xbrli:period><xbrli:startDate>2024-01-01</xbrli:startDate><xbrli:endDate>2024-12-31</xbrli:endDate></xbrli:period></xbrli:context>",
+        "<xbrli:context id=\"c-9\"><xbrli:entity><xbrli:identifier scheme=\"http://www.sec.gov/CIK\">0001836981</xbrli:identifier></xbrli:entity><xbrli:period><xbrli:startDate>2023-01-01</xbrli:startDate><xbrli:endDate>2023-12-31</xbrli:endDate></xbrli:period></xbrli:context>"
+      ],
+      "unit": "<xbrli:unit id=\"usd\"><xbrli:measure>iso4217:USD</xbrli:measure></xbrli:unit>"
+    }
+  ]
+}
